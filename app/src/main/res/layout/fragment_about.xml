@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/nav_about_us">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:text="This app is designed and developed by the students of Cdac kolkata as a project.
+Technologies used for this app development is, android studio (for, Front end and backend) and firebase (for the database).
+You can connect us on our mail id 'birdsprojectdac@gmail.com'"
+        android:textSize="25sp"
+        android:textAlignment="center" />
+
+</LinearLayout>
